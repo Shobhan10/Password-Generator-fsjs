@@ -10,7 +10,9 @@ Hi 👋 I am Shobhan Sundar Goutam. This is a password generator app where rando
 
 - ### Learnings from this project:-
 
-  - Learned to use `toggle` method.
+  - Learned to handle functions with parameters more efficiently.
+  - Learned the `checked` method.
+  - Learned how to copy to clipboard.
 
 - It took around _7 hours_ to complete.
 
